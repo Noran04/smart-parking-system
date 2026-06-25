@@ -66,7 +66,7 @@ Finding an available parking space in crowded areas is time-consuming and contri
 
 ---
 
-## Project Structure
+## Repository Structure
 
 ```
 smart-parking-system/
