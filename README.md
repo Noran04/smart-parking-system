@@ -88,12 +88,13 @@ Finding an available parking space in crowded areas is time-consuming and contri
 
 ##  Team
 
-Noran Aljodi
-Rema Althaqfi
-Enas Althyabi
-Asail Al-Osaimi
-Reema Alharbi
-Artificial Intelligence Student
+- Noran Aljodi
+- Rema Althaqfi
+- Enas Althyabi
+- Asail Al-Osaimi
+- Reema Alharbi
+  
+Artificial Intelligence Students
 
 Umm Al-Qura University
 
