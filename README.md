@@ -69,14 +69,8 @@ Finding an available parking space in crowded areas is time-consuming and contri
 ## Repository Structure
 
 ```
-smart-parking-system/
-│
-├── model/
-├── dataset/
-├── app.py
-├── requirements.txt
 ├── README.md
-└── PROJECT ML.pdf
+└── report.pdf
 ```
 
 ---
